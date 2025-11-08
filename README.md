@@ -63,20 +63,6 @@ It enables users to ask natural-language questions (e.g., _"Does this policy cov
 | 5️⃣ | `.dockerignore` | Excludes unnecessary files in Docker builds |
 
 ---
-
-## 🧩 Installation
-
-### 🪶 Prerequisites
-- Python 3.9+
-- pip
-- (Optional) Docker
-
-### 🧱 Step 1: Clone the Repo
-```bash
-git clone https://github.com/<your-username>/HackRx.git
-cd HackRx
-
-
 **Step 2**: Install Dependencies
 pip install -r requirements.txt
 
